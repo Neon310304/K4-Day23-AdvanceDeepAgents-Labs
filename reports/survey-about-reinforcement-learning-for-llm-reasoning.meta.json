@@ -1,0 +1,26 @@
+{
+  "topic": "survey about reinforcement learning for LLM reasoning",
+  "model": "cx/gpt-6.1-sol",
+  "elapsed_s": 733.5,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "edit_file": 2,
+    "execute": 5,
+    "ls": 1,
+    "read_file": 7,
+    "submit_report": 1,
+    "task": 5,
+    "validate_report": 3,
+    "write_todos": 4
+  },
+  "tokens": {
+    "input": 780353,
+    "output": 9259
+  },
+  "n_sources": 13,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

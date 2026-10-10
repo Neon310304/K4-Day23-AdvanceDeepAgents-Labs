@@ -1,0 +1,98 @@
+[
+  {
+    "n": 1,
+    "id": "2210.03629",
+    "url": "https://arxiv.org/abs/2210.03629",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "2022-10-06",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2302.04761",
+    "url": "https://arxiv.org/abs/2302.04761",
+    "title": "Toolformer: Language Models Can Teach Themselves to Use Tools",
+    "date": "2023-02-09",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2205.00445",
+    "url": "https://arxiv.org/abs/2205.00445",
+    "title": "MRKL Systems: A modular, neuro-symbolic architecture that combines large language models, external knowledge sources and discrete reasoning",
+    "date": "2022-05-01",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "https://link.springer.com/article/10.1007/s44336-025-00024-x",
+    "url": "https://link.springer.com/article/10.1007/s44336-025-00024-x",
+    "title": "Tool learning with language models: a comprehensive survey of methods, pipelines, and benchmarks",
+    "date": "2025-11-27",
+    "source": "web"
+  },
+  {
+    "n": 5,
+    "id": "2305.15334",
+    "url": "https://arxiv.org/abs/2305.15334",
+    "title": "Gorilla: Large Language Model Connected with Massive APIs",
+    "date": "2023-05-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2511.01854",
+    "url": "https://huggingface.co/papers/2511.01854",
+    "title": "Tool-to-Agent Retrieval: Bridging Tools and Agents for Scalable LLM Multi-Agent Systems",
+    "date": "2025-11-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2602.03128",
+    "url": "https://huggingface.co/papers/2602.03128",
+    "title": "Understanding Multi-Agent LLM Frameworks: A Unified Benchmark and Experimental Analysis",
+    "date": "2026-02-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 8,
+    "id": "https://link.springer.com/article/10.1007/s44336-024-00009-2",
+    "url": "https://link.springer.com/article/10.1007/s44336-024-00009-2",
+    "title": "A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges",
+    "date": "2024-10-08",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "https://arxiv.org/abs/2504.01963v1",
+    "url": "https://arxiv.org/abs/2504.01963v1",
+    "title": "LLMs Working in Harmony: A Survey on the Technological Aspects of Building Effective LLM-Based Multi Agent Systems",
+    "date": "2025-03-13",
+    "source": "web"
+  },
+  {
+    "n": 10,
+    "id": "2609.33987",
+    "url": "https://huggingface.co/papers/2609.33987",
+    "title": "Opera: A Verbal Critic Framework for Long-horizon Coding Agents",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 11,
+    "id": "https://react-lm.github.io/",
+    "url": "https://react-lm.github.io/",
+    "title": "ReAct: Synergizing Reasoning and Acting in Language Models",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 12,
+    "id": "https://sky.cs.berkeley.edu/project/gorilla/",
+    "url": "https://sky.cs.berkeley.edu/project/gorilla/",
+    "title": "Gorilla – UC Berkeley Sky Computing Lab",
+    "date": "",
+    "source": "web"
+  }
+]

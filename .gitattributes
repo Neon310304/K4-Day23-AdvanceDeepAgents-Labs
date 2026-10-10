@@ -1,0 +1,2 @@
+# Preserve sandbox artifact bytes, including model-produced trailing spaces.
+reports/** -text whitespace=-blank-at-eol

@@ -1,0 +1,75 @@
+{
+  "topic": "survey about video and multimodal generation",
+  "model": "ag/gemini-3.1-pro-high",
+  "elapsed_s": 707.9,
+  "subagent_calls": 7,
+  "tool_calls": {
+    "arxiv_search": 2,
+    "edit_file": 15,
+    "execute": 8,
+    "hf_daily_papers": 1,
+    "ls": 5,
+    "read_file": 7,
+    "submit_report": 2,
+    "task": 7,
+    "validate_report": 4,
+    "web_fetch": 5,
+    "web_search": 1,
+    "write_file": 7,
+    "write_todos": 16
+  },
+  "tokens": {
+    "input": 1212662,
+    "output": 23484
+  },
+  "revisions": [
+    {
+      "model": "ag/gemini-3.1-pro-high",
+      "elapsed_s": 198.6,
+      "subagent_calls": 1,
+      "tool_calls": {
+        "arxiv_search": 2,
+        "edit_file": 12,
+        "execute": 4,
+        "ls": 3,
+        "read_file": 2,
+        "task": 1,
+        "validate_report": 2,
+        "web_search": 1,
+        "write_file": 2,
+        "write_todos": 5
+      },
+      "tokens": {
+        "input": 375025,
+        "output": 6547
+      }
+    },
+    {
+      "model": "ag/gemini-3.1-pro-high",
+      "elapsed_s": 123.5,
+      "subagent_calls": 1,
+      "tool_calls": {
+        "edit_file": 3,
+        "execute": 2,
+        "hf_daily_papers": 1,
+        "ls": 2,
+        "read_file": 2,
+        "task": 1,
+        "validate_report": 2,
+        "web_fetch": 5,
+        "write_file": 5,
+        "write_todos": 5
+      },
+      "tokens": {
+        "input": 429155,
+        "output": 6396
+      }
+    }
+  ],
+  "n_sources": 14,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

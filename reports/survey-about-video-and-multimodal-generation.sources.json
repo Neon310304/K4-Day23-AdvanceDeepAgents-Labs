@@ -1,0 +1,114 @@
+[
+  {
+    "n": 1,
+    "id": "https://link.springer.com/article/10.1007/s10462-025-11331-6",
+    "url": "https://link.springer.com/article/10.1007/s10462-025-11331-6",
+    "title": "Video diffusion generation: comprehensive review and open problems | Artificial Intelligence Review | Springer Nature Link",
+    "date": "2025-08-20",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "https://link.springer.com/article/10.1007/s10462-026-11525-6",
+    "url": "https://link.springer.com/article/10.1007/s10462-026-11525-6",
+    "title": "Generative AI for multimodal content: a survey with empirical and experimental evaluations | Artificial Intelligence Review | Springer Nature Link",
+    "date": "2026-03-19",
+    "source": "web"
+  },
+  {
+    "n": 3,
+    "id": "2006.11239",
+    "url": "https://arxiv.org/abs/2006.11239",
+    "title": "Denoising Diffusion Probabilistic Models",
+    "date": "2020-06-19",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2112.10752",
+    "url": "https://arxiv.org/abs/2112.10752",
+    "title": "High-Resolution Image Synthesis with Latent Diffusion Models",
+    "date": "2021-12-20",
+    "source": "arxiv"
+  },
+  {
+    "n": 5,
+    "id": "2412.03603",
+    "url": "https://huggingface.co/papers/2412.03603",
+    "title": "HunyuanVideo: A Systematic Framework For Large Video Generative Models",
+    "date": "2024-12-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "https://arxiv.org/html/2502.17863v1",
+    "url": "https://arxiv.org/html/2502.17863v1",
+    "title": "A Survey: Spatiotemporal Consistency in Video Generation",
+    "date": "2025-02-25",
+    "source": "web"
+  },
+  {
+    "n": 7,
+    "id": "https://arxiv.org/html/2507.16869v3",
+    "url": "https://arxiv.org/html/2507.16869v3",
+    "title": "Controllable Video Generation: A Survey",
+    "date": "2026-01-19",
+    "source": "web"
+  },
+  {
+    "n": 8,
+    "id": "https://arxiv.org/html/2608.09926v1",
+    "url": "https://arxiv.org/html/2608.09926v1",
+    "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 9,
+    "id": "2609.14421",
+    "url": "https://arxiv.org/abs/2609.14421",
+    "title": "Dependency, Compression, and Synergy: A Unified Information-Theoretic View of Multimodal Learning",
+    "date": "2026-09-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 10,
+    "id": "https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_Chain_of_World_World_Model_Thinking_in_Latent_Motion_CVPR_2026_paper.pdf",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026/papers/Yang_Chain_of_World_World_Model_Thinking_in_Latent_Motion_CVPR_2026_paper.pdf",
+    "title": "Chain of World: World Model Thinking in Latent Motion",
+    "date": "",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2610.00812",
+    "url": "https://arxiv.org/abs/2610.00812",
+    "title": "Video Generation Models: A Survey of Post-Training and Alignment",
+    "date": "2026-09-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "https://dl.acm.org/doi/full/10.1145/3704262",
+    "url": "https://dl.acm.org/doi/full/10.1145/3704262",
+    "title": "A Survey of AI-Generated Content (AIGC) | ACM Computing Surveys",
+    "date": "2025-01-22",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2409.14149",
+    "url": "https://huggingface.co/papers/2409.14149",
+    "title": "JVID: Joint Video-Image Diffusion for Visual-Quality and Temporal-Consistency in Video Generation",
+    "date": "2024-09-21",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "https://proceedings.iclr.cc/paper_files/paper/2026/file/cf7ba4b2d14e0f6a0e8247af77745094-Paper-Conference.pdf",
+    "url": "https://proceedings.iclr.cc/paper_files/paper/2026/file/cf7ba4b2d14e0f6a0e8247af77745094-Paper-Conference.pdf",
+    "title": "Latent Particle World Models: Self-Supervised Object-Centric Stochastic Dynamics Modeling",
+    "date": "",
+    "source": "web"
+  }
+]

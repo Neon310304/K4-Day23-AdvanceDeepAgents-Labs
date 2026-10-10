@@ -1,0 +1,26 @@
+{
+  "topic": "survey about world model",
+  "model": "cx/gpt-6.1-sol",
+  "elapsed_s": 744.9,
+  "subagent_calls": 5,
+  "tool_calls": {
+    "edit_file": 2,
+    "execute": 3,
+    "ls": 1,
+    "read_file": 8,
+    "submit_report": 1,
+    "task": 5,
+    "validate_report": 2,
+    "write_todos": 3
+  },
+  "tokens": {
+    "input": 660718,
+    "output": 9535
+  },
+  "n_sources": 15,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}

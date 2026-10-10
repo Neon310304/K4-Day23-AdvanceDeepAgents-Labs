@@ -1,4 +1,6 @@
 deepagents==0.7.21
+langchain==1.4.4
+langchain-core==1.6.9
 langchain-openai==1.6.7
 langchain-daytona==0.0.8
 daytona==0.223.0

@@ -1,0 +1,72 @@
+{
+  "topic": "survey about efficient inference and small language models",
+  "model": "ag/gemini-3.1-pro-high",
+  "elapsed_s": 529.5,
+  "subagent_calls": 6,
+  "tool_calls": {
+    "edit_file": 9,
+    "execute": 5,
+    "hf_daily_papers": 11,
+    "hf_search_papers": 1,
+    "ls": 6,
+    "read_file": 4,
+    "submit_report": 2,
+    "task": 6,
+    "validate_report": 2,
+    "web_fetch": 8,
+    "write_file": 3,
+    "write_todos": 13
+  },
+  "tokens": {
+    "input": 1548307,
+    "output": 17971
+  },
+  "revisions": [
+    {
+      "model": "ag/gemini-3.1-pro-high",
+      "elapsed_s": 138.7,
+      "subagent_calls": 1,
+      "tool_calls": {
+        "edit_file": 5,
+        "execute": 2,
+        "ls": 4,
+        "read_file": 2,
+        "task": 1,
+        "validate_report": 1,
+        "web_fetch": 6,
+        "write_file": 1,
+        "write_todos": 6
+      },
+      "tokens": {
+        "input": 481763,
+        "output": 5472
+      }
+    },
+    {
+      "model": "ag/gemini-3.1-pro-high",
+      "elapsed_s": 113.4,
+      "subagent_calls": 0,
+      "tool_calls": {
+        "edit_file": 4,
+        "hf_daily_papers": 11,
+        "hf_search_papers": 1,
+        "ls": 1,
+        "read_file": 2,
+        "validate_report": 1,
+        "web_fetch": 2,
+        "write_file": 1,
+        "write_todos": 2
+      },
+      "tokens": {
+        "input": 724239,
+        "output": 2765
+      }
+    }
+  ],
+  "n_sources": 11,
+  "source_families": [
+    "arxiv",
+    "hf-search",
+    "web"
+  ]
+}
